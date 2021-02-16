@@ -1,5 +1,5 @@
 # robofriends
-React Exercise
+React Exercise with Redux and React-Redux
 
 1. Clone this repo
 2. Run `npm install`
